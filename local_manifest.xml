@@ -8,6 +8,14 @@
       remote="github"
       revision="inf-qp2-vanilla" />
 
+  <!-- Device tree for Samsung Tab A7 gta4l (your fork) -->
+  <project
+      path="device/samsung/gta4lwifi"
+      name="LineageOS/android_device_samsung_gta4lwifi"
+      remote="github"
+      revision="lineage-23.2" />
+
+  
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
