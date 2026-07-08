@@ -4,16 +4,16 @@
   <!-- Device tree for Samsung Tab A7 wifi gta4lwifi (your fork) -->
   <project
       path="device/samsung/gta4lwifi"
-      name="shipukacapri/android_device_samsung_gta4lwifi"
+      name="LineageOS/android_device_samsung_gta4lwifi"
       remote="github"
-      revision="inf-qp2" />
+      revision="lineage-23.2" />
 
  <!-- Common device tree for gta4l (your fork) -->
   <project
       path="device/samsung/gta4l-common"
-      name="shipukacapri/android_device_samsung_gta4l-common"
+      name="LineageOS/android_device_samsung_gta4l-common"
       remote="github"
-      revision="fixed-23.2" />
+      revision="lineage-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
